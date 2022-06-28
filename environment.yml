@@ -1,6 +1,5 @@
 name: TEA
 channels:
-  - salilab
   - defaults
 dependencies:
   - _libgcc_mutex=0.1=main
@@ -39,4 +38,3 @@ dependencies:
   - wheel=0.37.1=pyhd3eb1b0_0
   - xz=5.2.5=h7f8727e_1
   - zlib=1.2.12=h7f8727e_2
-prefix: /home/jsd/anaconda3/envs/TEA
